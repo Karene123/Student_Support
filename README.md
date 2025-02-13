@@ -1,7 +1,8 @@
 # Student_Support
 
 ![image](https://github.com/user-attachments/assets/bb61bc7a-2c65-47e1-8ba4-3f535f3c6bbc)
-Source: http://www.senatorpreston.com/news/press-releases/69-preston-applauds-funding-for-educational-career-grants
+
+Source for this picture: http://www.senatorpreston.com/news/press-releases/69-preston-applauds-funding-for-educational-career-grants
 
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
