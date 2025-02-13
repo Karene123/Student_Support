@@ -1,0 +1,42 @@
+ProfessorID,First Name,Last Name,Sex,Email,DepartmentID
+1,David,Anderson,M,DV001@rc.edu,10
+2,Lilly ,Hernandez,F,LH002@rc.edu,1
+3,Starlight,Delgo,F,SD003@rc.edu,5
+4,Johny,Carter,M,JC004@rc.edu,2
+5,Peter,Chen,M,PC005@rc.edu,7
+6,Aisha,Khalid,F,AK006@rc.edu,7
+7,Willy,Hamiltom,M,WH007@rc.edu,4
+8,Laura,Robinson,F,LR008@rc.edu,2
+9,Johny,Green,M,JG009@rc.edu,1
+10,Emily,Brown,F,EB010@rc.edu,7
+11,Abigail ,Foster,F,AF011@rc.edu,8
+12,Sebastian,Dupuit,M,SD012@rc.edu,1
+13,Ben,Miller,M,BM013@rc.edu,6
+14,Chloe,Garcia,F,CG014@rc.edu,5
+15,Lynn,Kim,F,LK015@rc.edu,7
+16,Benjamin,Mendes,M,BM016@rc.edu,10
+17,Ethan,King,M,EK017@rc.edu,9
+18,Michael,Sato,M,MS018@rc.edu,1
+19,James,Wilson,M,JW019@rc.edu,2
+20,Fiona,Kapur,F,FK020@rc.edu,1
+21,Natalie,Schmidt,F,NS021@rc.edu,1
+22,Esther,Tanaka,F,ET022@rc.edu,1
+23,Elliot,Delgato,M,ED023@rc.edu,7
+24,Maurice,Bennett,M,MB024@rc.edu,3
+25,Nick,Parker,M,NP025@rc.edu,6
+26,Jasmine,Simmons,F,JS026@rc.edu,9
+27,Claire,Hughes,F,CH027@rc.edu,8
+28,Victoria,Harris,F,VH028@rc.edu,10
+29,Nick,Scott,M,NS029@rc.edu,2
+30,Henry,Scott,M,HS030@rc.edu,4
+31,Anthony,Reed,M,AR031@rc.edu,7
+32,Lydia,Taylor,F,LT032@rc.edu,8
+33,Rachel,Adams,F,RA033@rc.edu,2
+34,Angel,Evans,F,AE034@rc.edu,9
+35,Ryan,Riviera,M,RR035@rc.edu,7
+36,Logan,Barnes,M,LB036@rc.edu,1
+37,Paul,Rvera,M,PR037@rc.edu,6
+38,Elena,Turner,F,ET038@rc.edu,9
+39,Isaac,Kelly,M,IK039@rc.edu,10
+40,Ryan,Grant,M,RG040@rc.edu,1
+41,Moss,Pila,M,MP041@rc.edu,3

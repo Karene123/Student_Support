@@ -1,0 +1,103 @@
+QuizID,Subject_Name,ExamID,Weight,CourseID
+1,Process management,1,0.25,10
+1,Process management,2,0.25,10
+1,Process management,3,0.25,34
+,Memory Management,4,0.25,34
+,Memory Management,5,0.25,35
+,Memory Management,6,0.25,35
+,File Systems,7,0.25,1
+,File Systems,8,0.25,1
+,File Systems,9,0.25,2
+,Device Management,10,0.25,2
+,Device Management,11,0.25,18
+,Device Management,12,0.25,18
+,Data Mining and Text Mining,13,0.25,19
+,Data Mining and Text Mining,14,0.25,19
+,Data Mining and Text Mining,15,0.25,23
+,Data Warehousing and Integration,16,0.25,23
+,Data Warehousing and Integration,17,0.25,26
+,Data Warehousing and Integration,18,0.25,26
+,Data Reporting and Visualization,19,0.25,30
+,Data Reporting and Visualization,20,0.25,30
+,Data Reporting and Visualization,21,0.25,3
+,Data Analysis Dashboards,22,0.25,3
+,Data Analysis Dashboards,23,0.25,4
+,Data Analysis Dashboards,24,0.25,4
+,Predictive Analytics,25,0.25,5
+,Predictive Analytics,26,0.25,5
+,Predictive Analytics,27,0.25,11
+,Business Performance Management,28,0.25,11
+,Business Performance Management,29,0.25,20
+,Business Performance Management,30,0.25,20
+,Statistical Analysis,31,0.25,33
+,Statistical Analysis,32,0.25,33
+,Statistical Analysis,33,0.25,37
+,Decision Support Systems,34,0.25,37
+,Decision Support Systems,35,0.25,38
+,Decision Support Systems,36,0.25,38
+,,37,0.25,6
+,,38,0.25,6
+,,39,0.25,13
+,,40,0.25,13
+,,41,0.25,15
+,,42,0.25,15
+,,43,0.25,42
+,,44,0.25,42
+,,45,0.25,6
+,,46,0.25,6
+,,47,0.25,13
+,,48,0.25,13
+,,49,0.25,15
+,,50,0.25,15
+,,51,0.25,42
+,,52,0.25,42
+,,53,0.25,7
+,,54,0.25,7
+,,55,0.25,16
+,,56,0.25,16
+,,57,0.25,36
+,,58,0.25,36
+,,59,0.25,8
+,,60,0.25,8
+,,61,0.25,17
+,,62,0.25,17
+,,63,0.25,9
+,,64,0.25,9
+,,65,0.25,21
+,,66,0.25,21
+,,67,0.25,22
+,,68,0.25,22
+,,69,0.25,24
+,,70,0.25,24
+,,71,0.25,25
+,,72,0.25,25
+,,73,0.25,27
+,,74,0.25,27
+,,75,0.25,29
+,,76,0.25,29
+,,77,0.25,31
+,,78,0.25,31
+,,79,0.25,46
+,,80,0.25,46
+,,81,0.25,47
+,,82,0.25,47
+,,83,0.25,12
+,,84,0.25,12
+,,85,0.25,44
+,,86,0.25,44
+,,87,0.25,45
+,,88,0.25,45
+,,89,0.25,14
+,,90,0.25,14
+,,91,0.25,28
+,,92,0.25,28
+,,93,0.25,32
+,,94,0.25,32
+,,95,0.25,43
+,,96,0.25,43
+,,97,0.25,39
+,,98,0.25,39
+,,99,0.25,40
+,,100,0.25,40
+,,101,0.25,41
+,,102,0.25,41

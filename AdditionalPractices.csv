@@ -1,0 +1,436 @@
+ExtraID,Subject name,CourseID
+1,Process Management,10
+2,Memory Management,10
+3,Memory Management,10
+4,File Systems,10
+5,File Systems,10
+6,Scheduling Algorithms,10
+7,Data Cleaning and Preprocessing,34
+8,Data Visualization,34
+9,BI Tools and Dashboards,35
+10,BI Tools and Dashboards,35
+11,Data Warehousing Concepts,35
+12,Reporting and Visualization Techniques,35
+13,Data Wrangling and Cleaning,1
+14,Data Visualization,1
+15,Introduction to Statistical Analysis,1
+16,Supervised Learning,2
+17,Supervised Learning,2
+18,Unsupervised Learning,2
+19,Unsupervised Learning,2
+20,Model Evaluation and Metrics,2
+21,Model Evaluation and Metrics,2
+22,Model Evaluation and Metrics,2
+23,Neural Networks and Deep Learning,2
+24,Neural Networks and Deep Learning,2
+25,Text Tokenization and Preprocessing,18
+26,Text Tokenization and Preprocessing,18
+27,Sentiment Analysis,18
+28,Named Entity Recognition (NER),18
+29,Named Entity Recognition (NER),18
+30,Language Modeling,18
+31,Regression Analysis,19
+32,Regression Analysis,19
+33,Regression Analysis,19
+34,Time Series Forecasting,19
+35,Predictive Modeling with ML,19
+36,Predictive Modeling with ML,19
+37,Predictive Modeling with ML,19
+38,Scenario Planning,19
+39,Scenario Planning,19
+40,Big Data Introduction,23
+41,Introduction to SQL,23
+42,Basics of Probability and Statistics,23
+43,Big Data Introduction,26
+44,Introduction to SQL,26
+45,Basics of Probability and Statistics,26
+46,Text Classification,30
+47,Machine Translation,30
+48,Machine Translation,30
+49,Topic Modeling,30
+50,Topic Modeling,30
+51,Question Answering Systems,30
+52,Software Development Life Cycle (SDLC),3
+53,Agile Methodologies,3
+54,Requirements Analysis,3
+55,Requirements Analysis,3
+56,Feedback Control Systems,4
+57,Feedback Control Systems,4
+58,Stability Analysis,4
+59,PID Controllers,4
+60,Robotic Kinematics,5
+61,Robotic Kinematics,5
+62,Sensors and Actuators,5
+63,Path Planning Algorithms,5
+64,Robot Programming,5
+65,Singleton Pattern,11
+66,Factory Pattern,11
+67,Observer Pattern,11
+68,Model-View-Controller (MVC),11
+69,Variables and Data Types,20
+70,Variables and Data Types,20
+71,Control Flow (Loops and Conditions),20
+72,Functions and Modules,20
+73,Object-Oriented Programming Basics,20
+74,State-Space Representation,33
+75,Digital Control Systems,33
+76,System Modeling and Simulation,33
+77,Software Architecture Design,37
+78,"Version Control (e.g., Git)",37
+79,Risk Management in Projects,37
+80,Continuous Integration/Continuous Deployment (CI/CD),37
+81,Singleton Pattern,38
+82,Factory Pattern,38
+83,Observer Pattern,38
+84,Model-View-Controller (MVC),38
+85,OSI Model and Protocols,6
+86,TCP/IP Architecture,6
+87,Routing and Switching,6
+88,Routing and Switching,6
+89,Network Topologies and Design,6
+90,Network Topologies and Design,13
+91,Network Topologies and Design,13
+92,TCP/IP Architecture,13
+93,Routing and Switching,13
+94,Network Topologies and Design,13
+95,Network Topologies and Design,13
+96,Encryption Techniques,15
+97,Firewall Configuration,15
+98,Intrusion Detection and Prevention,15
+99,Cybersecurity Fundamentals,7
+100,Cybersecurity Fundamentals,7
+101,Cybersecurity Fundamentals,7
+102,Common Cyber Threats and Attacks,7
+103,Common Cyber Threats and Attacks,7
+104,Common Cyber Threats and Attacks,7
+105,Common Cyber Threats and Attacks,7
+106,Risk Assessment and Management,7
+107,Risk Assessment and Management,7
+108,Risk Assessment and Management,7
+109,Risk Assessment and Management,7
+110,Security Best Practices,7
+111,Security Best Practices,7
+112,Security Best Practices,7
+113,Security Best Practices,7
+114,Threat Intelligence Lifecycle,16
+115,Threat Intelligence Lifecycle,16
+116,Threat Intelligence Lifecycle,16
+117,Threat Intelligence Lifecycle,16
+118,Threat Intelligence Lifecycle,16
+119,Threat Intelligence Lifecycle,16
+120,Threat Hunting and Analysis,16
+121,Threat Hunting and Analysis,16
+122,Threat Hunting and Analysis,16
+123,Threat Hunting and Analysis,16
+124,Threat Hunting and Analysis,16
+125,Threat Hunting and Analysis,16
+126,Indicators of Compromise (IoCs),16
+127,Indicators of Compromise (IoCs),16
+128,Indicators of Compromise (IoCs),16
+129,Indicators of Compromise (IoCs),16
+130,Indicators of Compromise (IoCs),16
+131,Indicators of Compromise (IoCs),16
+132,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+133,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+134,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+135,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+136,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+137,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)",16
+138,Network Security Basics,36
+139,Network Security Basics,36
+140,Network Security Basics,36
+141,Incident Response Planning,36
+142,Incident Response Planning,36
+143,Incident Response Planning,36
+144,Cryptography Fundamentals,36
+145,Cryptography Fundamentals,36
+146,Cryptography Fundamentals,36
+147,Security Tools and Techniques,36
+148,Security Tools and Techniques,36
+149,Security Tools and Techniques,36
+150,Sequence Alignment Algorithms,36
+151,Sequence Alignment Algorithms,8
+152,Sequence Alignment Algorithms,8
+153,Sequence Alignment Algorithms,8
+154,Sequence Alignment Algorithms,8
+155,DNA and Protein Databases,8
+156,DNA and Protein Databases,8
+157,DNA and Protein Databases,8
+158,DNA and Protein Databases,8
+159,DNA and Protein Databases,8
+160,DNA and Protein Databases,8
+161,Genomics and Transcriptomics,8
+162,Genomics and Transcriptomics,8
+163,Genomics and Transcriptomics,8
+164,Genomics and Transcriptomics,8
+165,Genomics and Transcriptomics,8
+166,Phylogenetic Tree Construction,8
+167,Phylogenetic Tree Construction,8
+168,Phylogenetic Tree Construction,8
+169,Phylogenetic Tree Construction,8
+170,Phylogenetic Tree Construction,8
+171,Phylogenetic Tree Construction,8
+172,Clustering Techniques in Bioinformatics,17
+173,Clustering Techniques in Bioinformatics,17
+174,Clustering Techniques in Bioinformatics,17
+175,Clustering Techniques in Bioinformatics,17
+176,Clustering Techniques in Bioinformatics,17
+177,Gene Expression Analysis,17
+178,Gene Expression Analysis,17
+179,Knowledge Representation,27
+180,Natural Language Processing Basics,27
+181,Natural Language Processing Basics,27
+182,Natural Language Processing Basics,27
+183,Natural Language Processing Basics,27
+184,Natural Language Processing Basics,27
+185,Reinforcement Learning Fundamentals,27
+186,Reinforcement Learning Fundamentals,27
+187,Reinforcement Learning Fundamentals,27
+188,Reinforcement Learning Fundamentals,27
+189,Reinforcement Learning Fundamentals,27
+190,Basics of Programming,29
+191,Basics of Programming,29
+192,Basics of Programming,29
+193,Basics of Programming,29
+194,Algorithms and Computational Thinking,29
+195,Algorithms and Computational Thinking,29
+196,Algorithms and Computational Thinking,29
+197,Algorithms and Computational Thinking,29
+198,Problem Solving Techniques,29
+199,Problem Solving Techniques,29
+200,Problem Solving Techniques,29
+201,Problem Solving Techniques,29
+202,Data Representation and Storage,29
+203,Data Representation and Storage,29
+204,Data Representation and Storage,29
+205,Data Representation and Storage,29
+206,Arrays and Linked Lists,31
+207,Arrays and Linked Lists,31
+208,Arrays and Linked Lists,31
+209,Sorting and Searching Algorithms,31
+210,Sorting and Searching Algorithms,31
+211,Sorting and Searching Algorithms,31
+212,Graphs and Trees,31
+213,Graphs and Trees,31
+214,Graphs and Trees,31
+215,Dynamic Programming,31
+216,Dynamic Programming,31
+217,Dynamic Programming,31
+218,Supervised Learning,46
+219,Supervised Learning,46
+220,Supervised Learning,46
+221,Supervised Learning,46
+222,Supervised Learning,46
+223,Unsupervised Learning,46
+224,Unsupervised Learning,46
+225,Unsupervised Learning,46
+226,Unsupervised Learning,46
+227,Unsupervised Learning,46
+228,Ensemble Methods,46
+229,Ensemble Methods,46
+230,Ensemble Methods,46
+231,Ensemble Methods,46
+232,Ensemble Methods,46
+233,Feature Engineering,46
+234,Feature Engineering,46
+235,Feature Engineering,46
+236,Feature Engineering,46
+237,Feature Engineering,46
+238,Automata and Formal Languages,47
+239,Automata and Formal Languages,47
+240,Automata and Formal Languages,47
+241,Automata and Formal Languages,47
+242,Automata and Formal Languages,47
+243,Turing Machines,47
+244,Turing Machines,47
+245,Turing Machines,47
+246,Turing Machines,47
+247,Turing Machines,47
+248,Computability and Complexity,47
+249,Computability and Complexity,47
+250,Computability and Complexity,47
+251,Computability and Complexity,47
+252,Computability and Complexity,47
+253,Decision Problems,47
+254,Decision Problems,47
+255,Decision Problems,47
+256,Decision Problems,47
+257,Decision Problems,47
+258,Procedural Programming,12
+259,Procedural Programming,12
+260,Procedural Programming,12
+261,Procedural Programming,12
+262,Procedural Programming,12
+263,Procedural Programming,12
+264,Object-Oriented Programming,12
+265,Object-Oriented Programming,12
+266,Object-Oriented Programming,12
+267,Object-Oriented Programming,12
+268,Object-Oriented Programming,12
+269,Object-Oriented Programming,12
+270,Functional Programming,12
+271,Functional Programming,12
+272,Functional Programming,12
+273,Functional Programming,12
+274,Functional Programming,12
+275,Functional Programming,12
+276,Logic Programming,12
+277,Logic Programming,12
+278,Logic Programming,12
+279,Logic Programming,12
+280,Logic Programming,12
+281,Logic Programming,12
+282,Maxwell's Equations,44
+283,Maxwell's Equations,44
+284,Maxwell's Equations,44
+285,Maxwell's Equations,44
+286,Maxwell's Equations,44
+287,Maxwell's Equations,44
+288,Maxwell's Equations,44
+289,Maxwell's Equations,44
+290,Maxwell's Equations,44
+291,Maxwell's Equations,44
+292,Maxwell's Equations,44
+293,Maxwell's Equations,44
+294,Maxwell's Equations,44
+295,Electromagnetic Wave Propagation,44
+296,Electromagnetic Wave Propagation,44
+297,Electromagnetic Wave Propagation,44
+298,Electromagnetic Wave Propagation,44
+299,Electromagnetic Wave Propagation,44
+300,Electromagnetic Wave Propagation,44
+301,Electromagnetic Wave Propagation,44
+302,Electromagnetic Wave Propagation,44
+303,Electromagnetic Wave Propagation,44
+304,Electromagnetic Wave Propagation,44
+305,Electromagnetic Wave Propagation,44
+306,Electromagnetic Wave Propagation,44
+307,Electromagnetic Wave Propagation,44
+308,Antenna Theory,44
+309,Antenna Theory,44
+310,Antenna Theory,44
+311,Antenna Theory,44
+312,Antenna Theory,44
+313,Antenna Theory,44
+314,Antenna Theory,44
+315,Antenna Theory,44
+316,Antenna Theory,44
+317,Antenna Theory,44
+318,Antenna Theory,44
+319,Antenna Theory,44
+320,Antenna Theory,44
+321,Boundary Conditions in Electromagnetics,44
+322,Boundary Conditions in Electromagnetics,44
+323,Boundary Conditions in Electromagnetics,44
+324,Boundary Conditions in Electromagnetics,44
+325,Boundary Conditions in Electromagnetics,44
+326,Boundary Conditions in Electromagnetics,44
+327,Boundary Conditions in Electromagnetics,44
+328,Boundary Conditions in Electromagnetics,44
+329,Boundary Conditions in Electromagnetics,44
+330,Boundary Conditions in Electromagnetics,44
+331,Boundary Conditions in Electromagnetics,44
+332,Boundary Conditions in Electromagnetics,44
+333,Boundary Conditions in Electromagnetics,44
+334,Fourier Transform,45
+335,Fourier Transform,45
+336,Fourier Transform,45
+337,Fourier Transform,45
+338,Fourier Transform,45
+339,Sampling Theorem,45
+340,Sampling Theorem,45
+341,Sampling Theorem,45
+342,Sampling Theorem,45
+343,Sampling Theorem,45
+344,Digital Filters,45
+345,Digital Filters,45
+346,Digital Filters,45
+347,Digital Filters,45
+348,Digital Filters,45
+349,Time-Frequency Analysis,45
+350,Time-Frequency Analysis,45
+351,Time-Frequency Analysis,45
+352,Time-Frequency Analysis,45
+353,Time-Frequency Analysis,45
+354,Fourier Transform,14
+355,Fourier Transform,14
+356,Fourier Transform,14
+357,Sampling Theorem,14
+358,Sampling Theorem,14
+359,Sampling Theorem,14
+360,Digital Filters,14
+361,Digital Filters,14
+362,Digital Filters,14
+363,Time-Frequency Analysis,14
+364,Time-Frequency Analysis,14
+365,Time-Frequency Analysis,14
+366,Boolean Algebra,28
+367,Boolean Algebra,28
+368,Boolean Algebra,28
+369,Boolean Algebra,28
+370,Finite State Machines,28
+371,Finite State Machines,28
+372,Finite State Machines,28
+373,,32
+374,CPU Organization,32
+375,CPU Organization,32
+376,CPU Organization,32
+377,Memory Hierarchy,32
+378,Memory Hierarchy,32
+379,Memory Hierarchy,32
+380,Memory Hierarchy,32
+381,CPU Organization,43
+382,CPU Organization,43
+383,CPU Organization,43
+384,Memory Hierarchy,43
+385,Memory Hierarchy,43
+386,Memory Hierarchy,43
+387,Memory Hierarchy,43
+388,Instruction Set Architecture (ISA),43
+389,Instruction Set Architecture (ISA),43
+390,Instruction Set Architecture (ISA),43
+391,Instruction Set Architecture (ISA),43
+392,Combinational Circuits,39
+393,Sequential Circuits,39
+394,Sequential Circuits,39
+395,Sequential Circuits,39
+396,Finite State Machines,39
+397,Finite State Machines,39
+398,Finite State Machines,39
+399,Perception and Sensor Integration,40
+400,Perception and Sensor Integration,40
+401,Perception and Sensor Integration,40
+402,Perception and Sensor Integration,40
+403,Decision-Making in Robotics,40
+404,Decision-Making in Robotics,40
+405,Human-Robot Interaction,40
+406,Human-Robot Interaction,40
+407,Human-Robot Interaction,40
+408,Human-Robot Interaction,40
+409,Human-Robot Interaction,40
+410,Microcontroller Programming,41
+411,Microcontroller Programming,41
+412,Microcontroller Programming,41
+413,Microcontroller Programming,41
+414,Embedded Sensor Integration,41
+415,Embedded Sensor Integration,41
+416,,41
+417,Power Management in Embedded Systems,41
+418,Power Management in Embedded Systems,41
+419,Power Management in Embedded Systems,41
+420,Power Management in Embedded Systems,41
+421,Power Management in Embedded Systems,24
+422,Microcontroller Programming,24
+423,Microcontroller Programming,24
+424,Real-Time Operating Systems,21
+425,Algorithms and Computational Thinking,39
+426,Algorithms and Computational Thinking,39
+427,Algorithms and Computational Thinking,39
+428,Data Representation and Storage,41
+429,Data Representation and Storage,41
+430,Data Representation and Storage,41
+431,Data Representation and Storage,41
+432,Knowledge Representation,41
+433,Knowledge Representation,41
+434,Knowledge Representation,41
+435,Knowledge Representation,41
