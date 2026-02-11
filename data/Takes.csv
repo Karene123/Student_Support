@@ -1,0 +1,949 @@
+QuizID,StudentID,Score,
+1,26,85,
+1,75,78,Process Management
+1,76,92,
+2,75,74,Memory Management
+2,76,81,
+2,26,79,Memory Management
+3,76,83,
+3,26,77,File Systems
+3,75,89,
+4,26,91,
+4,75,84,
+4,76,80,Scheduling Algorithms
+5,77,82,
+5,76,75,Data Cleaning and Preprocessing
+5,26,87,
+6,77,93,
+6,76,86,
+6,26,88,
+7,77,85,
+7,76,90,
+7,26,82,
+8,77,79,Data Visualization
+8,76,91,
+8,26,84,
+9,75,77,BI Tools and Dashboards
+9,26,86,
+9,77,80,BI Tools and Dashboards
+10,75,89,
+10,26,83,
+10,77,92,
+11,75,81,
+11,26,78,Data Warehousing Concepts
+11,77,87,
+12,75,75,Reporting and Visualization Techniques
+12,26,93,
+12,77,88,
+13,2,82,
+13,3,90,
+13,4,79,Data Wrangling and Cleaning
+14,2,85,
+14,3,91,
+14,4,83,
+15,2,86,
+15,3,80,Data Visualization
+15,4,88,
+16,2,84,
+16,3,77,Introduction to Statistical Analysis
+16,4,91,
+17,7,78,Supervised Learning
+17,6,85,
+17,5,92,
+17,4,87,
+17,3,79,Supervised Learning
+17,2,88,
+17,74,90,
+18,7,83,
+18,6,76,Unsupervised Learning
+18,5,89,
+18,4,81,
+18,3,84,
+18,2,77,Unsupervised Learning
+18,74,86,
+19,7,80,Model Evaluation and Metrics
+19,6,93,
+19,5,75,Model Evaluation and Metrics
+19,4,82,
+19,3,88,
+19,2,85,
+19,74,79,Model Evaluation and Metrics
+20,7,91,
+20,6,78,Neural Networks and Deep Learning
+20,5,87,
+20,4,90,
+20,3,83,
+20,2,76,Neural Networks and Deep Learning
+20,74,89,
+21,2,81,
+21,3,84,
+21,4,77,Text Tokenization and Preprocessing
+21,5,86,
+21,6,80,Text Tokenization and Preprocessing
+22,2,93,
+22,3,75,Sentiment Analysis
+22,4,82,
+22,5,88,
+22,6,85,
+23,2,79,Named Entity Recognition (NER)
+23,3,91,
+23,4,78,Named Entity Recognition (NER)
+23,5,87,
+23,6,90,
+24,2,83,
+24,3,76,Language Modeling
+24,4,89,
+24,5,81,
+24,6,84,
+25,74,77,Regression Analysis
+25,73,91,
+25,72,78,Regression Analysis
+25,71,85,
+25,69,92,
+25,68,87,
+25,67,79,Regression Analysis
+26,74,88,
+26,73,90,
+26,72,83,
+26,71,76,Time Series Forecasting
+26,69,89,
+26,68,81,
+26,67,84,
+27,74,77,Predictive Modeling with ML
+27,73,86,
+27,72,80,Predictive Modeling with ML
+27,71,93,
+27,69,75,Predictive Modeling with ML
+27,68,82,
+27,67,88,
+28,74,85,
+28,73,79,Scenario Planning
+28,72,91,
+28,71,78,Scenario Planning
+28,69,87,
+28,68,90,
+28,67,83,
+29,5,76,Big Data Introduction
+29,6,89,
+30,5,81,
+30,6,84,
+31,5,77,Introduction to SQL
+31,6,86,
+32,5,80,Basics of Probability and Statistics
+32,6,93,
+33,7,75,Big Data Introduction
+33,67,82,
+34,7,88,
+34,67,85,
+35,7,79,Introduction to SQL
+35,67,91,
+36,7,78,Basics of Probability and Statistics
+36,67,87,
+37,7,90,
+37,67,83,
+37,68,76,Text Classification
+37,69,89,
+37,70,81,
+38,7,84,
+38,67,77,Machine Translation
+38,68,86,
+38,69,80,Machine Translation
+38,70,93,
+39,7,75,Topic Modeling
+39,67,82,
+39,68,88,
+39,69,85,
+39,70,79,Topic Modeling
+40,7,91,
+40,67,78,Question Answering Systems
+40,68,87,
+40,69,90,
+40,70,83,
+41,17,76,Software Development Life Cycle (SDLC)
+41,18,89,
+41,19,81,
+42,17,84,
+42,18,77,Agile Methodologies
+42,19,86,
+43,17,80,Requirements Analysis
+43,18,93,
+43,19,75,Requirements Analysis
+44,17,82,
+44,18,88,
+44,19,85,
+45,17,79,Feedback Control Systems
+45,18,91,
+45,19,78,Feedback Control Systems
+46,17,87,
+46,18,90,
+46,19,83,
+47,17,76,Stability Analysis
+47,18,89,
+47,19,81,
+48,17,84,
+48,18,77,PID Controllers
+48,19,86,
+49,17,80,Robotic Kinematics
+49,19,93,
+49,20,75,Robotic Kinematics
+49,21,82,
+50,17,88,Sensors and Actuators
+50,19,85,Sensors and Actuators
+50,20,79,Sensors and Actuators
+50,21,91,Sensors and Actuators
+51,17,78,Path Planning Algorithms
+51,19,87,Path Planning Algorithms
+51,20,90,Path Planning Algorithms
+51,21,83,Path Planning Algorithms
+52,17,76,Robot Programming
+52,19,89,Robot Programming
+52,20,81,Robot Programming
+52,21,84,Robot Programming
+53,23,77,Singleton Pattern
+53,22,92,Singleton Pattern
+53,21,85,Singleton Pattern
+54,23,78,Factory Pattern
+54,22,91,Factory Pattern
+54,21,87,Factory Pattern
+55,23,80,Observer Pattern
+55,22,89,Observer Pattern
+55,21,83,Observer Pattern
+56,23,76,Model-View-Controller (MVC)
+56,22,88,Model-View-Controller (MVC)
+56,21,90,Model-View-Controller (MVC)
+57,17,79,Variables and Data Types
+57,18,84,Variables and Data Types
+57,22,77,Variables and Data Types
+57,23,86,Variables and Data Types
+58,17,81,Control Flow (Loops and Conditions)
+58,18,93,Control Flow (Loops and Conditions)
+58,22,75,Control Flow (Loops and Conditions)
+58,23,82,Control Flow (Loops and Conditions)
+59,17,87,Functions and Modules
+59,18,85,Functions and Modules
+59,22,78,Functions and Modules
+59,23,91,Functions and Modules
+60,17,88,Object-Oriented Programming Basics
+60,18,79,Object-Oriented Programming Basics
+60,22,90,Object-Oriented Programming Basics
+60,23,83,Object-Oriented Programming Basics
+61,23,76,State-Space Representation
+61,22,89,State-Space Representation
+62,23,81,Frequency Response Analysis
+62,22,84,Frequency Response Analysis
+63,23,77,Digital Control Systems
+63,22,86,Digital Control Systems
+64,23,80,System Modeling and Simulation
+64,22,93,System Modeling and Simulation
+65,20,75,Software Architecture Design
+65,21,82,Software Architecture Design
+65,22,87,Software Architecture Design
+66,20,85,"Version Control (e.g., Git)"
+66,21,78,"Version Control (e.g., Git)"
+66,22,91,"Version Control (e.g., Git)"
+67,20,88,Risk Management in Projects
+67,21,79,Risk Management in Projects
+67,22,90,Risk Management in Projects
+68,20,83,Continuous Integration/Continuous Deployment (CI/CD)
+68,21,76,Continuous Integration/Continuous Deployment (CI/CD)
+68,22,89,Continuous Integration/Continuous Deployment (CI/CD)
+69,20,81,Singleton Pattern
+69,19,84,Singleton Pattern
+69,18,77,Singleton Pattern
+70,20,86,Factory Pattern
+70,19,80,Factory Pattern
+70,18,93,Factory Pattern
+71,20,75,Observer Pattern
+71,19,82,Observer Pattern
+71,18,87,Observer Pattern
+72,20,85,Model-View-Controller (MVC)
+72,19,78,Model-View-Controller (MVC)
+72,18,91,Model-View-Controller (MVC)
+73,27,88,OSI Model and Protocols
+73,43,79,OSI Model and Protocols
+73,44,90,OSI Model and Protocols
+73,45,83,OSI Model and Protocols
+74,27,76,TCP/IP Architecture
+74,43,89,TCP/IP Architecture
+74,44,81,TCP/IP Architecture
+74,45,84,TCP/IP Architecture
+75,27,77,Routing and Switching
+75,43,86,Routing and Switching
+75,44,80,Routing and Switching
+75,45,93,Routing and Switching
+76,27,75,Network Topologies and Design
+76,43,82,Network Topologies and Design
+76,44,87,Network Topologies and Design
+76,45,85,Network Topologies and Design
+77,46,78,Network Topologies and Design
+77,47,91,Network Topologies and Design
+77,48,88,Network Topologies and Design
+77,49,79,Network Topologies and Design
+78,46,90,TCP/IP Architecture
+78,47,83,TCP/IP Architecture
+78,48,76,TCP/IP Architecture
+78,49,89,TCP/IP Architecture
+79,46,81,Routing and Switching
+79,47,84,Routing and Switching
+79,48,77,Routing and Switching
+79,49,86,Routing and Switching
+80,46,80,Network Topologies and Design
+80,47,93,Network Topologies and Design
+80,48,75,Network Topologies and Design
+80,49,82,Network Topologies and Design
+81,49,87,Encryption Techniques
+81,47,85,Encryption Techniques
+81,45,78,Encryption Techniques
+82,49,91,Firewall Configuration
+82,47,88,Firewall Configuration
+82,45,79,Firewall Configuration
+83,49,90,Intrusion Detection and Prevention
+83,47,83,Intrusion Detection and Prevention
+83,45,76,Intrusion Detection and Prevention
+84,49,100,Secure Socket Layer (SSL)/TLS Protocols
+84,47,99,Secure Socket Layer (SSL)/TLS Protocols
+84,45,98,Secure Socket Layer (SSL)/TLS Protocols
+85,27,97,Encryption Techniques
+85,44,96,Encryption Techniques
+85,46,95,Encryption Techniques
+85,43,94,Encryption Techniques
+86,27,93,Firewall Configuration
+86,44,92,Firewall Configuration
+86,46,91,Firewall Configuration
+86,43,90,Firewall Configuration
+87,27,89,Intrusion Detection and Prevention
+87,44,88,Intrusion Detection and Prevention
+87,46,87,Intrusion Detection and Prevention
+87,43,86,Intrusion Detection and Prevention
+88,27,85,Secure Socket Layer (SSL)/TLS Protocols
+88,44,84,Secure Socket Layer (SSL)/TLS Protocols
+88,46,83,Secure Socket Layer (SSL)/TLS Protocols
+88,43,82,Secure Socket Layer (SSL)/TLS Protocols
+89,24,81,Cybersecurity Fundamentals
+89,25,80,Cybersecurity Fundamentals
+89,62,79,Cybersecurity Fundamentals
+89,63,78,Cybersecurity Fundamentals
+90,24,77,Common Cyber Threats and Attacks
+90,25,76,Common Cyber Threats and Attacks
+90,62,75,Common Cyber Threats and Attacks
+90,63,74,Common Cyber Threats and Attacks
+91,24,73,Risk Assessment and Management
+91,25,72,Risk Assessment and Management
+91,62,71,Risk Assessment and Management
+91,63,70,Risk Assessment and Management
+92,24,69,Security Best Practices
+92,25,68,Security Best Practices
+92,62,67,Security Best Practices
+92,63,66,Security Best Practices
+93,24,65,Threat Intelligence Lifecycle
+93,25,64,Threat Intelligence Lifecycle
+93,62,63,Threat Intelligence Lifecycle
+93,63,62,Threat Intelligence Lifecycle
+93,64,61,Threat Intelligence Lifecycle
+93,65,60,Threat Intelligence Lifecycle
+94,24,59,Threat Hunting and Analysis
+94,25,58,Threat Hunting and Analysis
+94,62,57,Threat Hunting and Analysis
+94,63,56,Threat Hunting and Analysis
+94,64,55,Threat Hunting and Analysis
+94,65,54,Threat Hunting and Analysis
+95,24,53,Indicators of Compromise (IoCs)
+95,25,52,Indicators of Compromise (IoCs)
+95,62,51,Indicators of Compromise (IoCs)
+95,63,50,Indicators of Compromise (IoCs)
+95,64,49,Indicators of Compromise (IoCs)
+95,65,48,Indicators of Compromise (IoCs)
+96,24,47,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+96,25,46,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+96,62,45,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+96,63,44,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+96,64,43,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+96,65,42,"Cyber Threat Frameworks (e.g., MITRE ATT&CK)"
+97,64,41,Network Security Basics
+97,65,40,Network Security Basics
+97,66,39,Network Security Basics
+98,64,38,Incident Response Planning
+98,65,37,Incident Response Planning
+98,66,36,Incident Response Planning
+99,64,35,Cryptography Fundamentals
+99,65,34,Cryptography Fundamentals
+99,66,33,Cryptography Fundamentals
+100,64,32,Security Tools and Techniques
+100,65,31,Security Tools and Techniques
+100,66,30,Security Tools and Techniques
+101,16,29,Sequence Alignment Algorithms
+101,21,28,Sequence Alignment Algorithms
+101,32,27,Sequence Alignment Algorithms
+101,33,26,Sequence Alignment Algorithms
+101,34,25,Sequence Alignment Algorithms
+102,16,24,DNA and Protein Databases
+102,31,23,DNA and Protein Databases
+102,32,22,DNA and Protein Databases
+102,33,21,DNA and Protein Databases
+102,34,20,DNA and Protein Databases
+102,78,19,DNA and Protein Databases
+103,16,18,Genomics and Transcriptomics
+103,21,17,Genomics and Transcriptomics
+103,32,16,Genomics and Transcriptomics
+103,33,15,Genomics and Transcriptomics
+103,34,14,Genomics and Transcriptomics
+104,16,13,Phylogenetic Tree Construction
+104,31,12,Phylogenetic Tree Construction
+104,32,11,Phylogenetic Tree Construction
+104,33,10,Phylogenetic Tree Construction
+104,34,9,Phylogenetic Tree Construction
+104,78,8,Phylogenetic Tree Construction
+105,16,7,Clustering Techniques in Bioinformatics
+105,21,6,Clustering Techniques in Bioinformatics
+105,32,5,Clustering Techniques in Bioinformatics
+105,33,4,Clustering Techniques in Bioinformatics
+105,34,3,Clustering Techniques in Bioinformatics
+106,16,2,Gene Expression Analysis
+106,31,1,Gene Expression Analysis
+106,32,100,Gene Expression Analysis
+106,33,99,Gene Expression Analysis
+106,34,98,Gene Expression Analysis
+106,78,97,Gene Expression Analysis
+107,16,96,Protein Structure Prediction
+107,21,95,Protein Structure Prediction
+107,32,94,Protein Structure Prediction
+107,33,93,Protein Structure Prediction
+107,34,92,Protein Structure Prediction
+108,16,91,Machine Learning in Genomics
+108,31,90,Machine Learning in Genomics
+108,32,89,Machine Learning in Genomics
+108,33,88,Machine Learning in Genomics
+108,34,87,Machine Learning in Genomics
+108,78,86,Machine Learning in Genomics
+109,16,85,Arrays and Linked Lists
+109,21,100,Arrays and Linked Lists
+109,32,99,Arrays and Linked Lists
+109,33,98,Arrays and Linked Lists
+109,81,96,Arrays and Linked Lists
+109,80,95,Arrays and Linked Lists
+109,79,94,Arrays and Linked Lists
+109,78,93,Arrays and Linked Lists
+109,34,92,Arrays and Linked Lists
+110,21,87,Sorting and Searching Algorithms
+110,81,99,Sorting and Searching Algorithms
+110,80,98,Sorting and Searching Algorithms
+110,79,97,Sorting and Searching Algorithms
+110,78,96,Sorting and Searching Algorithms
+110,34,95,Sorting and Searching Algorithms
+110,33,94,Sorting and Searching Algorithms
+110,32,93,Sorting and Searching Algorithms
+111,21,90,Graphs and Trees
+111,81,86,Graphs and Trees
+111,80,85,Graphs and Trees
+111,79,100,Graphs and Trees
+111,78,99,Graphs and Trees
+111,34,98,Graphs and Trees
+111,33,97,Graphs and Trees
+111,32,96,Graphs and Trees
+111,16,95,Graphs and Trees
+112,21,93,Dynamic Programming
+112,81,89,Dynamic Programming
+112,80,88,Dynamic Programming
+112,79,87,Dynamic Programming
+112,78,86,Dynamic Programming
+112,34,85,Dynamic Programming
+112,33,100,Dynamic Programming
+112,32,99,Dynamic Programming
+112,16,98,Dynamic Programming
+113,1,97,Basics of Programming
+113,8,96,Basics of Programming
+113,9,95,Basics of Programming
+113,10,94,Basics of Programming
+113,11,93,Basics of Programming
+113,12,92,Basics of Programming
+113,13,91,Basics of Programming
+114,1,90,Algorithms and Computational Thinking
+114,8,89,Algorithms and Computational Thinking
+114,9,88,Algorithms and Computational Thinking
+114,10,87,Algorithms and Computational Thinking
+114,11,86,Algorithms and Computational Thinking
+114,12,85,Algorithms and Computational Thinking
+114,13,100,Algorithms and Computational Thinking
+115,1,99,Problem Solving Techniques
+115,8,98,Problem Solving Techniques
+115,9,97,Problem Solving Techniques
+115,10,96,Problem Solving Techniques
+115,11,95,Problem Solving Techniques
+115,12,94,Problem Solving Techniques
+115,13,93,Problem Solving Techniques
+116,1,92,Data Representation and Storage
+116,8,91,Data Representation and Storage
+116,9,90,Data Representation and Storage
+116,10,89,Data Representation and Storage
+116,11,88,Data Representation and Storage
+116,12,87,Data Representation and Storage
+116,13,86,Data Representation and Storage
+117,61,85,Search Algorithms
+117,60,100,Search Algorithms
+117,59,99,Search Algorithms
+117,58,98,Search Algorithms
+117,57,97,Search Algorithms
+117,56,96,Search Algorithms
+118,61,95,Knowledge Representation
+118,60,94,Knowledge Representation
+118,59,93,Knowledge Representation
+118,58,92,Knowledge Representation
+118,57,91,Knowledge Representation
+118,56,90,Knowledge Representation
+119,61,89,Natural Language Processing Basics
+119,60,88,Natural Language Processing Basics
+119,59,87,Natural Language Processing Basics
+119,58,86,Natural Language Processing Basics
+119,57,85,Natural Language Processing Basics
+119,56,100,Natural Language Processing Basics
+120,61,99,Reinforcement Learning Fundamentals
+120,60,98,Reinforcement Learning Fundamentals
+120,59,97,Reinforcement Learning Fundamentals
+120,58,96,Reinforcement Learning Fundamentals
+120,57,95,Reinforcement Learning Fundamentals
+120,56,94,Reinforcement Learning Fundamentals
+121,1,93,Basics of Programming
+121,8,92,Basics of Programming
+121,9,91,Basics of Programming
+121,10,90,Basics of Programming
+122,1,89,Algorithms and Computational Thinking
+122,8,88,Algorithms and Computational Thinking
+122,9,87,Algorithms and Computational Thinking
+122,10,86,Algorithms and Computational Thinking
+123,1,85,Problem Solving Techniques
+123,8,100,Problem Solving Techniques
+123,9,99,Problem Solving Techniques
+123,10,98,Problem Solving Techniques
+124,1,97,Data Representation and Storage
+124,8,96,Data Representation and Storage
+124,9,95,Data Representation and Storage
+124,10,94,Data Representation and Storage
+125,53,93,Search Algorithms
+125,52,92,Search Algorithms
+125,51,91,Search Algorithms
+125,50,90,Search Algorithms
+125,15,89,Search Algorithms
+126,53,88,Knowledge Representation
+126,52,87,Knowledge Representation
+126,51,86,Knowledge Representation
+126,50,85,Knowledge Representation
+126,15,45,Knowledge Representation
+127,53,52,Natural Language Processing Basics
+127,52,47,Natural Language Processing Basics
+127,51,50,Natural Language Processing Basics
+127,50,41,Natural Language Processing Basics
+127,15,59,Natural Language Processing Basics
+128,53,43,Reinforcement Learning Fundamentals
+128,52,55,Reinforcement Learning Fundamentals
+128,51,49,Reinforcement Learning Fundamentals
+128,50,60,Reinforcement Learning Fundamentals
+128,15,42,Reinforcement Learning Fundamentals
+129,11,58,Basics of Programming
+129,12,44,Basics of Programming
+129,13,53,Basics of Programming
+129,14,46,Basics of Programming
+130,11,51,Algorithms and Computational Thinking
+130,12,40,Algorithms and Computational Thinking
+130,13,57,Algorithms and Computational Thinking
+130,14,48,Algorithms and Computational Thinking
+131,11,54,Problem Solving Techniques
+131,12,45,Problem Solving Techniques
+131,13,52,Problem Solving Techniques
+131,14,47,Problem Solving Techniques
+132,11,50,Data Representation and Storage
+132,12,41,Data Representation and Storage
+132,13,59,Data Representation and Storage
+132,14,43,Data Representation and Storage
+133,14,55,Arrays and Linked Lists
+133,13,49,Arrays and Linked Lists
+133,12,60,Arrays and Linked Lists
+134,14,42,Sorting and Searching Algorithms
+134,13,58,Sorting and Searching Algorithms
+134,12,44,Sorting and Searching Algorithms
+135,14,53,Graphs and Trees
+135,13,46,Graphs and Trees
+135,12,51,Graphs and Trees
+136,14,40,Dynamic Programming
+136,13,57,Dynamic Programming
+136,12,48,Dynamic Programming
+137,14,54,Supervised Learning
+137,15,45,Supervised Learning
+137,50,52,Supervised Learning
+137,51,47,Supervised Learning
+137,52,50,Supervised Learning
+138,14,41,Unsupervised Learning
+138,15,59,Unsupervised Learning
+138,50,43,Unsupervised Learning
+138,51,55,Unsupervised Learning
+138,52,49,Unsupervised Learning
+139,14,60,Ensemble Methods
+139,15,42,Ensemble Methods
+139,50,58,Ensemble Methods
+139,51,44,Ensemble Methods
+139,52,53,Ensemble Methods
+140,14,46,Feature Engineering
+140,15,51,Feature Engineering
+140,50,40,Feature Engineering
+140,51,57,Feature Engineering
+140,52,48,Feature Engineering
+141,51,54,Automata and Formal Languages
+141,1,45,Automata and Formal Languages
+141,52,52,Automata and Formal Languages
+141,11,47,Automata and Formal Languages
+141,56,50,Automata and Formal Languages
+142,51,41,Turing Machines
+142,1,59,Turing Machines
+142,52,43,Turing Machines
+142,11,55,Turing Machines
+142,56,49,Turing Machines
+143,51,60,Computability and Complexity
+143,1,42,Computability and Complexity
+143,52,58,Computability and Complexity
+143,11,44,Computability and Complexity
+143,56,53,Computability and Complexity
+144,51,46,Decision Problems
+144,1,51,Decision Problems
+144,52,40,Decision Problems
+144,11,57,Decision Problems
+144,56,48,Decision Problems
+145,61,54,Procedural Programming
+145,60,45,Procedural Programming
+145,59,52,Procedural Programming
+145,58,47,Procedural Programming
+145,55,50,Procedural Programming
+145,54,41,Procedural Programming
+146,61,59,Object-Oriented Programming
+146,60,43,Object-Oriented Programming
+146,59,55,Object-Oriented Programming
+146,58,49,Object-Oriented Programming
+146,55,60,Object-Oriented Programming
+146,54,42,Object-Oriented Programming
+147,61,58,Functional Programming
+147,60,44,Functional Programming
+147,59,53,Functional Programming
+147,58,46,Functional Programming
+147,55,51,Functional Programming
+147,54,40,Functional Programming
+148,61,57,Logic Programming
+148,60,48,Logic Programming
+148,59,54,Logic Programming
+148,58,45,Logic Programming
+148,55,52,Logic Programming
+148,54,47,Logic Programming
+149,53,50,Maxwell's Equations
+149,52,41,Maxwell's Equations
+149,51,59,Maxwell's Equations
+149,50,43,Maxwell's Equations
+149,15,55,Maxwell's Equations
+149,14,49,Maxwell's Equations
+149,13,60,Maxwell's Equations
+149,12,42,Maxwell's Equations
+149,11,58,Maxwell's Equations
+149,10,44,Maxwell's Equations
+149,9,53,Maxwell's Equations
+149,8,46,Maxwell's Equations
+149,1,51,Maxwell's Equations
+150,53,40,Electromagnetic Wave Propagation
+150,52,57,Electromagnetic Wave Propagation
+150,51,48,Electromagnetic Wave Propagation
+150,50,54,Electromagnetic Wave Propagation
+150,15,45,Electromagnetic Wave Propagation
+150,14,52,Electromagnetic Wave Propagation
+150,13,47,Electromagnetic Wave Propagation
+150,12,50,Electromagnetic Wave Propagation
+150,11,41,Electromagnetic Wave Propagation
+150,10,59,Electromagnetic Wave Propagation
+150,9,43,Electromagnetic Wave Propagation
+150,8,55,Electromagnetic Wave Propagation
+150,1,49,Electromagnetic Wave Propagation
+151,53,60,Antenna Theory
+151,52,42,Antenna Theory
+151,51,58,Antenna Theory
+151,50,44,Antenna Theory
+151,15,53,Antenna Theory
+151,14,46,Antenna Theory
+151,13,51,Antenna Theory
+151,12,40,Antenna Theory
+151,11,57,Antenna Theory
+151,10,48,Antenna Theory
+151,9,54,Antenna Theory
+151,8,45,Antenna Theory
+151,1,52,Antenna Theory
+152,53,47,Boundary Conditions in Electromagnetics
+152,52,50,Boundary Conditions in Electromagnetics
+152,51,41,Boundary Conditions in Electromagnetics
+152,50,59,Boundary Conditions in Electromagnetics
+152,15,43,Boundary Conditions in Electromagnetics
+152,14,55,Boundary Conditions in Electromagnetics
+152,13,49,Boundary Conditions in Electromagnetics
+152,12,60,Boundary Conditions in Electromagnetics
+152,11,42,Boundary Conditions in Electromagnetics
+152,10,58,Boundary Conditions in Electromagnetics
+152,9,44,Boundary Conditions in Electromagnetics
+152,8,53,Boundary Conditions in Electromagnetics
+152,1,46,Boundary Conditions in Electromagnetics
+153,82,51,Fourier Transform
+153,83,40,Fourier Transform
+153,84,57,Fourier Transform
+153,85,48,Fourier Transform
+153,86,54,Fourier Transform
+154,82,45,Sampling Theorem
+154,83,52,Sampling Theorem
+154,84,47,Sampling Theorem
+154,85,50,Sampling Theorem
+154,86,41,Sampling Theorem
+155,82,59,Digital Filters
+155,83,43,Digital Filters
+155,84,55,Digital Filters
+155,85,49,Digital Filters
+155,86,60,Digital Filters
+156,82,42,Time-Frequency Analysis
+156,83,58,Time-Frequency Analysis
+156,84,44,Time-Frequency Analysis
+156,85,53,Time-Frequency Analysis
+156,86,46,Time-Frequency Analysis
+157,88,51,Fourier Transform
+157,87,40,Fourier Transform
+157,86,57,Fourier Transform
+158,88,48,Sampling Theorem
+158,87,54,Sampling Theorem
+158,86,70,Sampling Theorem
+159,88,71,Digital Filters
+159,87,72,Digital Filters
+159,86,73,Digital Filters
+160,88,74,Time-Frequency Analysis
+160,87,75,Time-Frequency Analysis
+160,86,76,Time-Frequency Analysis
+161,85,77,Boolean Algebra
+161,84,78,Boolean Algebra
+161,83,79,Boolean Algebra
+161,82,80,Boolean Algebra
+162,85,81,Combinational Circuits
+162,84,82,Combinational Circuits
+162,83,83,Combinational Circuits
+162,82,84,Combinational Circuits
+163,85,85,Sequential Circuits
+163,84,86,Sequential Circuits
+163,83,87,Sequential Circuits
+163,82,88,Sequential Circuits
+164,85,89,Finite State Machines
+164,84,70,Finite State Machines
+164,83,71,Finite State Machines
+164,82,72,Finite State Machines
+165,28,73,CPU Organization
+165,29,74,CPU Organization
+165,30,75,CPU Organization
+165,35,76,CPU Organization
+166,28,77,Memory Hierarchy
+166,29,78,Memory Hierarchy
+166,30,79,Memory Hierarchy
+166,35,80,Memory Hierarchy
+167,28,81,Instruction Set Architecture (ISA)
+167,29,82,Instruction Set Architecture (ISA)
+167,30,83,Instruction Set Architecture (ISA)
+167,35,84,Instruction Set Architecture (ISA)
+168,28,85,Pipelining
+168,29,86,Pipelining
+168,30,87,Pipelining
+168,35,88,Pipelining
+169,28,89,CPU Organization
+169,29,70,CPU Organization
+169,39,71,CPU Organization
+169,40,72,CPU Organization
+170,28,73,Memory Hierarchy
+170,29,74,Memory Hierarchy
+170,39,75,Memory Hierarchy
+170,40,76,Memory Hierarchy
+171,28,77,Instruction Set Architecture (ISA)
+171,29,78,Instruction Set Architecture (ISA)
+171,39,79,Instruction Set Architecture (ISA)
+171,40,80,Instruction Set Architecture (ISA)
+172,28,81,Pipelining
+172,29,82,Pipelining
+172,39,83,Pipelining
+172,40,84,Pipelining
+173,36,85,Boolean Algebra
+173,37,86,Boolean Algebra
+173,38,87,Boolean Algebra
+174,36,88,Combinational Circuits
+174,37,89,Combinational Circuits
+174,38,70,Combinational Circuits
+175,36,71,Sequential Circuits
+175,37,72,Sequential Circuits
+175,38,73,Sequential Circuits
+176,36,74,Finite State Machines
+176,37,75,Finite State Machines
+176,38,76,Finite State Machines
+177,42,77,Perception and Sensor Integration
+177,41,78,Perception and Sensor Integration
+177,40,79,Perception and Sensor Integration
+177,39,80,Perception and Sensor Integration
+177,37,81,Perception and Sensor Integration
+178,42,82,Robot Learning and Adaptation
+178,41,83,Robot Learning and Adaptation
+178,40,84,Robot Learning and Adaptation
+178,39,85,Robot Learning and Adaptation
+178,37,86,Robot Learning and Adaptation
+179,42,87,Decision-Making in Robotics
+179,41,88,Decision-Making in Robotics
+179,40,89,Decision-Making in Robotics
+179,39,70,Decision-Making in Robotics
+179,37,71,Decision-Making in Robotics
+180,42,72,Human-Robot Interaction
+180,41,73,Human-Robot Interaction
+180,40,74,Human-Robot Interaction
+180,39,75,Human-Robot Interaction
+180,37,76,Human-Robot Interaction
+181,89,77,Microcontroller Programming
+181,90,78,Microcontroller Programming
+181,91,79,Microcontroller Programming
+181,92,80,Microcontroller Programming
+181,93,81,Microcontroller Programming
+182,89,82,Real-Time Operating Systems
+182,90,83,Real-Time Operating Systems
+182,91,84,Real-Time Operating Systems
+182,92,85,Real-Time Operating Systems
+182,93,86,Real-Time Operating Systems
+183,89,87,Embedded Sensor Integration
+183,90,88,Embedded Sensor Integration
+183,91,89,Embedded Sensor Integration
+183,92,70,Embedded Sensor Integration
+183,93,71,Embedded Sensor Integration
+184,89,72,
+184,90,73,Power Management in Embedded Systems
+184,91,74,Power Management in Embedded Systems
+184,92,75,Power Management in Embedded Systems
+184,93,76,Power Management in Embedded Systems
+185,89,77,Power Management in Embedded Systems
+185,90,78,Microcontroller Programming
+185,91,79,Microcontroller Programming
+186,89,80,Real-Time Operating Systems
+186,90,81,Real-Time Operating Systems
+186,91,82,Real-Time Operating Systems
+187,89,83,Embedded Sensor Integration
+187,90,84,Embedded Sensor Integration
+187,91,85,Embedded Sensor Integration
+188,89,86,Power Management in Embedded Systems
+188,90,87,Power Management in Embedded Systems
+188,91,88,Power Management in Embedded Systems
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

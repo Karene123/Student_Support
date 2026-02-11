@@ -1,0 +1,96 @@
+StudentID,First Name,Last Name,Year of Birth,Sex,Major,Email
+1,Emily,Wilson,2009,F,Computer Science,EW001@rc.edu
+2,Abraham,Jones,2010,M,Data Science,AJ002@rc.edu
+3,Roselyn,Garcia,2011,F,Data Science,RG003@rc.edu
+4,Robert,Martinez,2009,M,Data Science,RM004@rc.edu
+5,Roberto,Rodriguez,2009,M,Data Science,RR005@rc.edu
+6,Daniel,Smith,2011,M,Data Science,DS006@rc.edu
+7,Christopher,Thomas,2011,M,Data Science,CT007@rc.edu
+8,Ava,Taylor,2009,F,Computer Science,AT008@rc.edu
+9,Ben,Moore,2008,M,Computer Science,BM009@rc.edu
+10,Mia,Jackson,2007,F,Computer Science,MJ010@rc.edu
+11,Charlotte,Martin,2009,F,Computer Science,CM011@rc.edu
+12,Leo,Gueo,2010,M,Computer Science,LG012@rc.edu
+13,Lucas,Filsw,2010,M,Computer Science,LF013@rc.edu
+14,Christiano,Wov,2005,M,Computer Science,CW014@rc.edu
+15,Evelyn,Queo,2010,F,Computer Science,EQ015@rc.edu
+16,Jean,Seo,2011,M,Bioinformatics,JS016@rc.edu
+17,Pierre,Lee,2010,M,Software Engineering,PL017@rc.edu
+18,Henry,Lewis,2009,M,Software Engineering,HL018@rc.edu
+19,Amelia,Allen,2008,F,Software Engineering,AA019@rc.edu
+20,Florient,Baker,2011,M,Software Engineering,FB020@rc.edu
+21,Yasmine,Carter,2011,F,Software Engineering,YC021@rc.edu
+22,Karen,Mitchell,2009,F,Software Engineering,KM022@rc.edu
+23,Harper,Perez,2007,F,Software Engineering,HP023@rc.edu
+24,Sebastian,Stone,2009,M,Cybersecurity,SS024@rc.edu
+25,Jack,Finch,2010,M,Cybersecurity,JF025@rc.edu
+26,Charlotte,Wale,2011,F,Information Systems,CW026@rc.edu
+27,Florian,Dawn,2012,M,Computer Networks,FD027@rc.edu
+28,Andrea,Maren,2009,F,Computer Engineering,AM028@rc.edu
+29,Kelvin,Wren,2010,M,Computer Engineering,KW029@rc.edu
+30,Stanislas,Hayes,2011,M,Computer Engineering,SH030@rc.edu
+31,Aurelius,Blackwood,2009,M,Bioinformatics,AB031@rc.edu
+32,Isolde,Thorne,2008,F,Bioinformatics,IT032@rc.edu
+33,Leander,Fairchild,2012,M,Bioinformatics,LF033@rc.edu
+34,Odessa,Ashford,2009,F,Bioinformatics,OA034@rc.edu
+35,Lucian,Stonu,2009,M,Computer Engineering,LS035@rc.edu
+36,Alaric,Matthew,2009,M,Computer Engineering,AM036@rc.edu
+37,Amara,Maren,2008,F,Computer Engineering,AM037@rc.edu
+38,Liora,Blythe,2010,F,Computer Engineering,LB038@rc.edu
+39,Evander,Bryce,2011,M,Computer Engineering,EB039@rc.edu
+40,Orian,Knox,2010,M,Computer Engineering,OK040@rc.edu
+41,Calista,Wells,2011,F,Computer Engineering,CW041@rc.edu
+42,Dorian,Wallas,2009,M,Computer Engineering,DW042@rc.edu
+43,Aarav,Patel,2010,M,Computer Networks,AP043@rc.edu
+44,Liam,Tanaka,2010,M,Computer Networks,LT044@rc.edu
+45,Sakura,Uma,2009,F,Computer Networks,SU045@rc.edu
+46,Amara, Okoye,2008,F,Computer Networks,AO046@rc.edu
+47,Elena,Rossi,2011,F,Computer Networks,ER047@rc.edu
+48,Zara ,Khan,2012,F,Computer Networks,ZK048@rc.edu
+49,Chloe,Leroy,2007,F,Computer Networks,CL049@rc.edu
+50,Anselm,Whitetaker,2008,M,Computer Science,AW050@rc.edu
+51,Brian,Fort,2010,M,Computer Science,BF051@rc.edu
+52,Fiona,June,2011,F,Computer Science,FJ052@rc.edu
+53,Juniper,Voss,2009,F,Computer Science,JV053@rc.edu
+54,Floriane,Hawke,2010,F,Computer Science,FH054@rc.edu
+55,Gideon,Marlowe,2010,M,Computer Science,GM055@rc.edu
+56,Ivor,McCawthery,2009,M,Computer Science,IM056@rc.edu
+57,Aladin,Sterling,2008,M,Computer Science,AS057@rc.edu
+58,Robert,Winslet,2011,M,Computer Science,RW058@rc.edu
+59,Frank,Larkspur,2012,M,Computer Science,FL059@rc.edu
+60,Guly,Vale,2007,F,Computer Science,GV060@rc.edu
+61,Brian,Water,2008,M,Computer Science,BW061@rc.edu
+62,Samia,Merrick,2008,F,Cybersecurity,SM062@rc.edu
+63,Lule,Dune,2010,F,Cybersecurity,LD063@rc.edu
+64,Sam,Hale,2011,M,Cybersecurity,SH064@rc.edu
+65,Dan,Drake,2010,M,Cybersecurity,DD065@rc.edu
+66,Elsa,Wren,2011,F,Cybersecurity,EW066@rc.edu
+67,Maria,Nightingale,2009,F,Data Science,MN067@rc.edu
+68,Slon,Sterling,2010,M,Data Science,SS068@rc.edu
+69,Luke,Hart,2010,M,Data Science,LH069@rc.edu
+70,Jon,Cross,2012,M,Data Science,JC070@rc.edu
+71,Orlon,Winslow,2007,F,Data Science,OW071@rc.edu
+72,Fabrice,Mary,2008,M,Data Science,FM072@rc.edu
+73,Sally,Mane,2010,F,Data Science,SM073@rc.edu
+74,Nell,Blythes,2011,M,Data Science,NB074@rc.edu
+75,Martin,Sinclair,2009,M,Information Systems,MS075@rc.edu
+76,Solomon,Drake,2010,M,Information Systems,SD076@rc.edu
+77,Zephyr,Vale,2010,F,Information Systems,ZV077@rc.edu
+78,Scarlett,Theron,2010,F,Bioinformatics,ST078@rc.edu
+79,Floyd,Washington,2009,M,Bioinformatics,FW079@rc.edu
+80,Chris,Kidman,2008,M,Bioinformatics,CK080@rc.edu
+81,Natalie,Chalamet,2011,F,Bioinformatics,NC081@rc.edu
+82,Milly,Hath,2012,F,Electrical Engineering,MH082@rc.edu
+83,Rose,Marie,2011,F,Electrical Engineering,RM083@rc.edu
+84,Bill,Lyniw,2009,M,Electrical Engineering,BL084@rc.edu
+85,Scarlett,Blue,2010,F,Electrical Engineering,SB085@rc.edu
+86,Joss,Blanchu,2010,M,Electrical Engineering,JB086@rc.edu
+87,Leo,Larson,2012,M,Electrical Engineering,LL087@rc.edu
+88,Mila,Downey,2007,F,Electrical Engineering,MD088@rc.edu
+89,Selene,Winter,2011,F,Robotics,SW089@rc.edu
+90,Lucian,Lark,2009,M,Robotics,LL090@rc.edu
+91,Ally,Quinn,2010,F,Robotics,AQ091@rc.edu
+92,Doria,Syn,2010,F,Robotics,DS092@rc.edu
+93,Elby,Vales,2012,F,Robotics,EV093@rc.edu
+94,Calista,Will,2007,F,Robotics,CW094@rc.edu
+95,Liora,Vutin,2012,F,Robotics,LV095@rc.edu
