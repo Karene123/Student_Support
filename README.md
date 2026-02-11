@@ -38,20 +38,6 @@ I simulated and creating at least 100 data points.
 
 Objective: Develop a database to address this challenge on SQL.
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-I created the data and it consists of:
-
-- Departments
-- Professors
-- Students
-- Courses
-- Quizzes
-- Exams
-
 <!-- Prerequisites -->
 ### Prerequisites
 
@@ -60,7 +46,10 @@ I created the data and it consists of:
 Install this software to run the code.
 
 <!-- Schema -->
-### Schema
+## Schema
+
+<img width="1049" height="793" alt="image" src="https://github.com/user-attachments/assets/06f23a26-efb1-4689-b30f-fc3f59b7154d" />
+
 As shown below, I was able to answer the research questions using the database. This database allows tracking of students who are struggling to understand certain concepts. 
 Regular statistical methods were used.
 
