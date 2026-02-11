@@ -8,32 +8,37 @@ Source for this picture: http://www.senatorpreston.com/news/press-releases/69-pr
 ### Table of Contents
 
 1. [Project Overview](#Project-Overview)
-2. [Getting Started](#Getting-Started)
-3. [Prerequisites](#Prerequisites)
-4. [Summary of Results and Methods Used](#Summary-of-Results-and-Methods-Used)
-5. [Comments](#Comments)
+2. [Prerequisites](#Prerequisites)
+3. [Schema](#Schema)
+4. [Additional Work](#Additional-Work)
 
 <!-- Project Overview -->
 ## About The Project
 
-According to an article published by the National Science Foundation (NSF) in 2014, they reported that 55% more students are failing from
-traditional lectures compared to those focusing on active learning (2014, May 12). They were interested in the failure rates for students majoring in
-Science, Technology, Engineering, and Mathematics (STEM). This project consists of designing a database to track the performance of students from those majors after receiving support. The goal is to ensure
-that they reach an overall success rate of 80%. Each student who did notreceive a good grade on their latest homework will be assigned extra exercises. Those tasks might help them master a subject with the
+According to an article published by the National Science Foundation (NSF) in 2014, they reported that 55% more students are failing from traditional lectures compared to those focusing on active learning (2014, May 12). They were interested in the failure rates for students majoring in Science, Technology, Engineering, and Mathematics (STEM). This project consists of designing a database to track the performance of students from those majors after receiving support. The goal is to ensure that they reach an overall success rate of 80%. Each student who did not receive a good grade on their latest homework will be assigned extra exercises. Those tasks might help them master a subject with the
 possibility of improving their grade. This approach allows students toreceive personalized assistance targeting their weaknesses. 
 
-Research questions:
-Those are the questions I would like to be able to answer with this database:
-- Based on each course, how many students will need extra practice?
-- What concepts are the most difficult for students to assimilate based on the failure rate? 
-- How many practice problems are needed to reach an 80% success rate? For each course? For each chapter? 
-- Which courses require additional help? Less additional help? (In other words, how many courses have a failing rate lower than 10%?)
-- What is the profile of the students in need of extra support?
   
 Data Source:
-I will be simulating and creating at least 100 data points.
+I simulated and creating at least 100 data points.
+
+| Table        | Number of Records |
+|--------------|------------------:|
+| Department   |                10 |
+| Professor    |                41 |
+| Student      |                95 |
+| Course       |               200 |
+| Quizzes      |               188 |
+| Exam         |               194 |
+| Takes        |               188 |
+| Teaches      |               100 |
+| Add.Practices|               435 |
+| Registers    |               208 |
+| Supervises   |              198 |
 
 Objective: Develop a database to address this challenge on SQL.
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -47,12 +52,14 @@ I created the data and it consists of:
 - Quizzes
 - Exams
 
+<!-- Prerequisites -->
 ### Prerequisites
 
 [MySQLWorkbench](https://dev.mysql.com/downloads/workbench/)
 
 Install this software to run the code.
 
+<!-- Schema -->
 ## Summary of Results and Methods Used
 As shown below, I was able to answer the research questions using the database. This database allows tracking of students who are struggling to understand certain concepts. 
 Regular statistical methods were used.
