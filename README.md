@@ -60,14 +60,14 @@ I created the data and it consists of:
 Install this software to run the code.
 
 <!-- Schema -->
-## Summary of Results and Methods Used
+### Schema
 As shown below, I was able to answer the research questions using the database. This database allows tracking of students who are struggling to understand certain concepts. 
 Regular statistical methods were used.
 
 ![image](https://github.com/user-attachments/assets/e6b086e4-2255-4688-afb8-756dc2971708)
 ![image](https://github.com/user-attachments/assets/7775d207-a3fd-4787-803a-a28c7dd552e5)
 
-## Comments
+### Comments
 In the future, I intend to add more complexity to this database to help universities track struggling students and support them in improving their scores. 
 Additionally, I hope to find a dataset that allows me to draw more accurate conclusions
 
